@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resources
+ntitle: Resources
 ---
 
 This is a collection of resources from contributors that may provide
@@ -21,6 +21,12 @@ useful in getting started with Dagger 2.
     Jake Wharton
 
     Jan 4, 2016
+    
+*   [Dagger 2 Now Even Pointier](https://www.youtube.com/watch?v=iwjXqRlEevg)
+
+    Gregory Kick
+
+    Jul 14, 2016
 
 *   [Understanding Dagger 2's Generated
     Code](https://www.youtube.com/watch?v=wCvXe2LsN5o)
